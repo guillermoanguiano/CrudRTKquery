@@ -4,7 +4,7 @@
       "id": "1",
       "name": "task 1",
       "description": "task description 1",
-      "completed": false
+      "completed": true
     }
   ]
 }
