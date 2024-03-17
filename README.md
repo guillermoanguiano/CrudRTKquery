@@ -1,4 +1,4 @@
-# Proyecto hecho para practicar con RKT Query
+# Proyecto hecho para practicar con RTK Query
 
 - pnpm i
 - pnpm run dev
